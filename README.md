@@ -76,8 +76,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contact
 
 For any questions or suggestions, feel free to reach out:
-- **Developer:** Prathap
-- **Email:** prathapy150@gmail.com
+- **Developer:** Preetham N
+- **Email:** hemaranesh@gmail.com
 - **Location:** Bengaluru, Karnataka
 
 ---
